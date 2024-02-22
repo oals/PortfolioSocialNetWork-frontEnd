@@ -1,0 +1,17 @@
+.scroll{
+  overflow:scroll;
+   overflow-x:hidden;
+  height:400px;
+  padding-right:5px;
+  scrollbar-width: none;
+   -ms-overflow-style: none;
+}
+
+
+
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+.index{
+  z-index : 1001;
+}

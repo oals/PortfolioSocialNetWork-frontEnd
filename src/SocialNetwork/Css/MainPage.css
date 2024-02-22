@@ -1,0 +1,23 @@
+
+
+.divHeight{
+ height: 333px;
+}
+
+.divHeight2{
+ height: 265px;
+}
+
+
+.inputForm{
+  border:0px;
+}
+
+.followhover:hover {
+  text-decoration: underline;
+}
+
+.followMember{
+  color: black;
+  text-decoration: none !important; 
+}

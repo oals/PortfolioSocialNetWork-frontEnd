@@ -1,0 +1,11 @@
+.divHeight{
+  height:300px;
+ 
+}
+
+.scroll{
+  overflow:scroll;
+  overflow-x:hidden;
+  height:330px;
+}
+

@@ -1,0 +1,38 @@
+.inputFile{
+
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.div1{
+  height:500px;
+
+}
+.div4{
+  height:430px;
+
+}
+
+.selectImage{
+  width:90px;
+  height:90px;
+}
+
+.textarea{
+  resize:none;
+}
+
+.div2{
+  height:1-0px;
+
+}
+
+.textGray {
+  color: gray;
+  opacity: 0.5;
+}
+
+.hiddenInput{
+  display:none;
+}
